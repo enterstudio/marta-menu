@@ -14,7 +14,7 @@
   "dependencies": {
     "body-parser": "^1.14.2",
     "dsv-loader": "^1.1.0",
-    "file-loader": "^0.9.0",
+    "file-loader": "^6.0.0",
     "haversine": "^1.0.0",
     "is-retina": "^1.0.3",
     "isomorphic-fetch": "^2.2.1",
@@ -34,7 +34,7 @@
     "react-share": "^1.6.1",
     "redux": "^3.3.1",
     "redux-thunk": "^2.1.0",
-    "url-loader": "^0.5.7"
+    "url-loader": "^4.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.4.0",
